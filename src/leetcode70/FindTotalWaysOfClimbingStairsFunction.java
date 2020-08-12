@@ -1,4 +1,4 @@
-package stairs;
+package leetcode70;
 
 public class FindTotalWaysOfClimbingStairsFunction {
 //	public int climbStairs(int n) {
